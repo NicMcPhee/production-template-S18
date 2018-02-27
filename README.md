@@ -112,3 +112,5 @@ Turn on your repo in [Travis CI][travis], replace the build status image in this
 [mongo-jdbc]: https://docs.mongodb.com/ecosystem/drivers/java/
 [labtasks]: LABTASKS.md
 [travis]: https://travis-ci.org/
+
+[![](http://codescene.io/projects/2466/status.svg) Get more details at **codescene.io**.](http://codescene.io/projects/2466/jobs/latest-successful/results)
