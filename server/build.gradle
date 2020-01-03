@@ -17,7 +17,7 @@ dependencies {
     compile 'org.mongodb:mongodb-driver:3.9.1'
     compile 'com.google.code.gson:gson:2.8.5'
 
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13'
 }
 
 //Only server tests
